@@ -8,8 +8,4 @@ It uses [ledger][1] as a backend.  The main added feature of `budget` is to
 One additional feature of `budget` is to tag expenses.  This allows you to mark 
 your expenses for e.g. generating the correct sums when doing taxes.
 
-
-References
--------------------------------------------------------------------------------
-
 [1]: https://github.com/ledger/ledger
