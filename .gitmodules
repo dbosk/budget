@@ -1,3 +1,7 @@
 [submodule "ledger"]
 	path = ledger
 	url = https://github.com/ledger/ledger.git
+[submodule "makefiles"]
+	path = makefiles
+	url = https://github.com/dbosk/makefiles.git
+	branch = master

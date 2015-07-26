@@ -1,0 +1,61 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{noweb}
+\usepackage{authblk}
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[natbib,style=alphabetic]{biblatex}
+\addbibresource{budget.bib}
+
+\title{%
+  budget: A Program for Planning the Economy
+}
+\author[1]{Daniel Bosk}
+\affil[1]{%
+  \texttt{\href{http://daniel.bosk.se/}{http://daniel.bosk.se/}}\\
+  \texttt{\href{mailto:daniel@bosk.se}{daniel@bosk.se}}
+}
+\author[2]{Mitra Damghanian}
+\affil[2]{%
+  \texttt{\href{http://mitra.damghanian.se/}{http://mitra.damghanian.se}}\\
+  \texttt{\href{mailto:mitra@damghanian.se}{mitra@damghanian.se}}
+}
+\date{Version 1.0 (draft)}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+% XXX Write the abstract
+\dots
+\end{abstract}
+
+\tableofcontents
+@
+
+
+\section{Introduction}
+\label{sec:Intro}
+% XXX Write an introduction
+
+\dots
+
+
+\section{Future Work}
+\label{sec:FutureWork}
+% XXX Fix the Future Work section
+
+\dots
+
+
+\section*{Acknowledgements}
+
+This code is available under the following BSD license:
+\begin{quote}
+  \input{LICENSE}
+\end{quote}
+
+
+\printbibliography
+\end{document}
