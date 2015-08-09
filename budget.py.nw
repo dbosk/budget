@@ -9,17 +9,15 @@
 \addbibresource{budget.bib}
 
 \title{%
-  budget: A Program for Planning the Economy
+  Budget: A Program for Planning the Economy
 }
 \author[1]{Daniel Bosk}
 \affil[1]{%
-  \texttt{\href{http://daniel.bosk.se/}{http://daniel.bosk.se/}}\\
-  \texttt{\href{mailto:daniel@bosk.se}{daniel@bosk.se}}
+  \texttt{\href{http://daniel.bosk.se/}{http://daniel.bosk.se/}}
 }
 \author[2]{Mitra Damghanian}
 \affil[2]{%
-  \texttt{\href{http://mitra.damghanian.se/}{http://mitra.damghanian.se}}\\
-  \texttt{\href{mailto:mitra@damghanian.se}{mitra@damghanian.se}}
+  \texttt{\href{http://mitra.damghanian.se/}{http://mitra.damghanian.se}}
 }
 \date{Version 1.0 (draft)}
 
